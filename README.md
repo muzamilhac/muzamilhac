@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Muzamil
 
-<!--
-**muzamilhac/muzamilhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student interested in Cyber Security and software development.
 
-Here are some ideas to get you started:
+Right now, I'm learning programming, Linux, networking, and computer science fundamentals while building small projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+
+- Python
+- C
+- Linux
+- Computer Networking
+- Git & GitHub
+- Cyber Security fundamentals
+- Software development
+
+## What I'm working on
+
+I'm currently building an AI Prompt & Workflow Platform as a practical software project.
+
+I'm using it to learn how real applications are planned, built, tested, and improved.
+
+## My goal
+
+My long-term goal is to work in Cyber Security and move towards Security Engineering.
+
+For now, I'm focused on learning the fundamentals and building projects step by step.
+
+## My approach
+
+Learn → Build → Break → Fix → Understand → Repeat
